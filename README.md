@@ -228,9 +228,6 @@
 7. Conclusion :
 
 The 'Car Rental System' project in Java provides a simple console-based solution for managing cars and rental transactions. It demonstrates the practical 
-
 application of Object-Oriented Programming(OOP) concepts such as classes, objects, encapsulation, collections, methods, loops, and conditional statements. 
-
 This project can also be extended in the future by adding features such as login authentication, database connectivity, payment processing, rental history, 
-
 and a graphical user interface(GUI).
