@@ -54,10 +54,11 @@
    B) Secondary Target Users :
 
       i) Students and Learners – This project can be used as an educational example for understanding Java and Object-Oriented Programming(OOP) concepts.
+   
       ii) Small Rental Businesses – This basic system can serve as a starting point for developing a more advanced car rental management application.
 
 
- 4. High-Level Features :
+ 5. High-Level Features :
 
    The major features of the system are:
 
@@ -89,16 +90,16 @@
 
    7. Availability Tracking :
 
-     The availability status of each car is automatically updated when a car is rented or returned.
+      The availability status of each car is automatically updated when a car is rented or returned.
 
    8. Rental Tracking : 
 
-     The system maintains active rental records containing the selected car, customer, and rental duration.
+      The system maintains active rental records containing the selected car, customer, and rental duration.
 
    9. Input Validation :
 
-     The system handles invalid car IDs, unavailable cars, invalid rental durations, and invalid menu choices.
+      The system handles invalid car IDs, unavailable cars, invalid rental durations, and invalid menu choices.
 
   10. Menu-Driven Interface :
 
-     This menu driven application provides a simple console menu through which users can choose to rent a car, return a car, or exit the system.
+      This menu driven application provides a simple console menu through which users can choose to rent a car, return a car, or exit the system.
