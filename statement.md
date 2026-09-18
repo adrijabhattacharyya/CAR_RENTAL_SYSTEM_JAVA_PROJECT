@@ -51,13 +51,13 @@
    
       ii) Customers – To select cars, provide their details, choose rental duration, and rent or return vehicles.
 
-  B) Secondary Target Users :
+   B) Secondary Target Users :
 
       i) Students and Learners – This project can be used as an educational example for understanding Java and Object-Oriented Programming(OOP) concepts.
       ii) Small Rental Businesses – This basic system can serve as a starting point for developing a more advanced car rental management application.
 
 
-4. High-Level Features :
+ 4. High-Level Features :
 
    The major features of the system are:
 
